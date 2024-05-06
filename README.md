@@ -2,7 +2,7 @@
 <h3>NAME : D.Vinitha </h3>
 <h3>REGISTER NUMBER : 212222230175</h3>
 <h3>EX. NO : O1</h3>
-<h3>DATE: 06.03.2024</h3>
+<h3>DATE: 14.02.2024</h3>
 
 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
